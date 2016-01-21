@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-	name = 'mypackage',
-	packages = ['mypackage'],
+	name = 'testrep',
+	packages = ['testrep'],
 	version = '0.0',
 	description = 'this is something, I dont know',
 	author = 'Ernesto Perez',

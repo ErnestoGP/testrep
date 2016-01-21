@@ -1,0 +1,4 @@
+setup.cfg
+setup.py
+mypackage/__init__.py
+mypackage/stuff.py
