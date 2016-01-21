@@ -7,7 +7,7 @@ setup(
 	author = 'Ernesto Perez',
 	author_email = 'ErnestoGPerez91@yahoo.com',
 	url = 'https://github.com/ErnestoGP/testrep',
-	download_url = 'https://github.com/ErnestoGP/testrep/archive/0.0.tar.gz',
+	download_url = 'https://github.com/ErnestoGP/testrep/archive/0.1.tar.gz',
 	keywords = ['test', 'thing', 'Idunno'],
 	classifiers = [],
 )
