@@ -1,4 +1,4 @@
 setup.cfg
 setup.py
-mypackage/__init__.py
-mypackage/stuff.py
+testrep/__init__.py
+testrep/stuff.py
