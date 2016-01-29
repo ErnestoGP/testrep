@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
 	name = 'testrep',
 	packages = ['testrep'],
-	version = '0.1.2',
+	version = '0.1.3',
 	description = 'this is a test upload with simple commands to see if I can install a package with the pip install command',
 	author = 'Ernesto Perez',
 	author_email = 'ErnestoGPerez91@yahoo.com',
