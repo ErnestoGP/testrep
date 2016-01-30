@@ -1,4 +1,4 @@
-import math
+from math import sqrt, pow
 
 def AreYouErnesto(name):
 	if(name == "Ernesto"):
