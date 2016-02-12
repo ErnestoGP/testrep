@@ -23,3 +23,12 @@ def DoF2t_test(s1, s2, n1, n2):
 	denom1 = pow(pow(s1,2)/n1,2)/(n1-1)
 	denom2 = pow(pow(s2,2)/n2,2)/(n2-1)
 	return num / (denom1 + denom2)
+
+def MyFactorial(num):
+	if num == 0:
+		return 1
+
+	fact = 1
+	for x in range(1, num+1):
+		fact = fact * x
+	return fact
